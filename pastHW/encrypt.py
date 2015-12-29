@@ -1,5 +1,5 @@
 #Brian Stamm
-#CSC - 110, Dr. West
+#CSC - 110
 #Howework 8 - Encryption/Decryption
 #11.18.14
 

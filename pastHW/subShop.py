@@ -1,5 +1,5 @@
 #Brian Stamm
-#CSC 110 - Dr. West
+#CSC 110
 #10.29.14
 #Homework 5 - Sandy's Sub Shop
 

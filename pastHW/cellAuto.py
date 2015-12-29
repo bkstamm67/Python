@@ -1,5 +1,5 @@
 #Brian Stamm
-#CSC 110 - Dr. West
+#CSC 110
 #HW 10 - Cellular Automata
 #12.4.14
 
